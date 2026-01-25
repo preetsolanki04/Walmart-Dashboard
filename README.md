@@ -61,7 +61,7 @@ The goal of this project is to demonstrate **data analysis, data visualization, 
 ```
 
 ## Dashboard Preview
-![Screenshot](https://user-images.githubusercontent.com/xxxxx/screenshot.png)
+![Screenshot](Screenshot 2026-01-25 174434.png)
 ---
 
 ## How to Use
