@@ -61,8 +61,7 @@ The goal of this project is to demonstrate **data analysis, data visualization, 
 ```
 
 ## Dashboard Preview
-![image alt]([image_url](https://github.com/preetsolanki04/Walmart-Dashboard/blob/main/Screenshot%202026-01-25%20174434.png?raw=true))
-
+![Screenshot](https://user-images.githubusercontent.com/xxxxx/screenshot.png)
 ---
 
 ## How to Use
