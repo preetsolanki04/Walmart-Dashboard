@@ -57,7 +57,11 @@ The goal of this project is to demonstrate **data analysis, data visualization, 
 ```
 ├── Walmart Dashboard.xlsx   # Excel dashboard & analysis
 ├── README.md                # Project documentation
+
 ```
+
+## Dashboard Preview
+![image alt]([image_url](https://github.com/preetsolanki04/Walmart-Dashboard/blob/main/Screenshot%202026-01-25%20174434.png?raw=true))
 
 ---
 
